@@ -1,0 +1,17 @@
+{"intents":  [
+	{"tag": "greetings",
+	"patterns": ["hello", "hey", "?"],
+	"responses": ["Hello", "Yes sir"]
+	},
+
+
+	{"tag": "shop",
+	"patterns": ["wanna buy", "how to buy", "buy"],
+	"responses": ["You can buy from Amazon", "buy online"]
+	},
+
+	{"tag": "name",
+	"patterns": ["what's your name", "name"],
+	"responses": ["i'm proma", "Proma"]
+	}
+]}
